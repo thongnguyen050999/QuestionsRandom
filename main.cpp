@@ -8,27 +8,27 @@ int choice[] = { 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 5,5,5,5, 6, 7, 8, 9, 10,
 
 void process_6()
 {
-	cout << "Question " << rand() % 16 +1<< endl;
+	cout << "Question " << rand() % 16 + 1 << endl;
 }
 
 void process_7()
 {
-	cout << "Question " << rand() % 26 +1<< endl;
+	cout << "Question " << rand() % 26 + 1 << endl;
 }
 
 void process_8()
 {
-	cout << "Question " << rand() % 21 +1<< endl;
+	cout << "Question " << rand() % 21 + 1 << endl;
 }
 
 void process_9()
 {
-	cout << "Question " << rand() % 14 +1<< endl;
+	cout << "Question " << rand() % 14 + 1 << endl;
 }
 
 void process_10()
 {
-	cout << "Question " << rand() % 12 +1<< endl;
+	cout << "Question " << rand() % 12 + 1 << endl;
 }
 
 void print()
