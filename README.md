@@ -1,4 +1,4 @@
-# QuestionsRandom
+# Questions Random
 Your group and package chooses your question
 
 QuestionsRandom utilizes basic random functions in C++ to select the question. Moreover, this is also biased for group 1 if it chooses 
